@@ -1,0 +1,28 @@
+{
+  "name": "sqr-trumposwere",
+  "version": "1.0.0",
+  "description": "Sqr-trumposwere is a Node.js module providing utilities for quantum computing experiments and simulations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trumposwere1973/sqr-trumposwere"
+  },
+  "dependencies": {
+	  "rodrygarci-new": "1.0.0",
+"edwardevans": "1.0.0",
+"solodop": "1.0.0",
+"susanmartin-config": "1.0.0",
+"grommailpasha-module": "1.0.0",
+"annef-js": "1.0.0",
+    "quantum-random": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trumposwere1973/sqr-trumposwere/issues"
+  },
+  "homepage": "https://github.com/trumposwere1973/sqr-trumposwere#readme"
+}
